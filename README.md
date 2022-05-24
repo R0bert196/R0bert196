@@ -5,6 +5,7 @@
 I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love challanges, always trying to learn and experience new things. As for my personality, I would consider myself an ambivert, being able to socialise and have fun around people, but I could also find myself reading a book on a Sunday morning. I believe that networking is a vital skill which I'm constantly trying to enhance, thus, I’m looking to expand my portfolio and collaborate on something new.
 
 ### Skill Set
+---
  - [Java]
  - [Python]
  - [PostgreSql]
@@ -33,7 +34,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
  - [Trello]
 
 ### 🔭 I’m currently trying to perfect the following skills …
-
+---
  - Clean Code
  - React
  - Docker
@@ -42,6 +43,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
  - Design Patterns
  
 ### 🤔 I’m looking forward to learing…
+---
  - C#
  - .NET
  - Angular
@@ -51,6 +53,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
  - MongoDB
  
 ### 😄 Outside of coding I enjoy:
+---
  - Going to the GYM 🏋
  - Skiing and Snowboarding ️⛷
  - Playing video games 🎮
