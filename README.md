@@ -42,7 +42,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
  - UI / UX
  - Design Patterns
  
-### 🤔 I’m looking forward to learing…
+### 🤔 I’m looking forward to learning…
 ---
  - C#
  - .NET
