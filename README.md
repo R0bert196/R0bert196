@@ -32,6 +32,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
  - [Mockito]
  - [Jira]
  - [Trello]
+ - [AWS]
 
 ### 🔭 I’m currently trying to perfect the following skills …
 ---
@@ -87,6 +88,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
 [Mockito]: https://site.mockito.org/
 [Jira]: https://www.atlassian.com/software/jira
 [Trello]: https://trello.com/
+[AWS]: https://aws.amazon.com/free/?trk=d5254134-67ca-4a35-91cc-77868c97eedd&sc_channel=ps&s_kwcid=AL!4422!3!433803620858!e!!g!!aws&ef_id=CjwKCAiAlp2fBhBPEiwA2Q10D9KJ6EzmJfkikFvvofpQLdtMZ1WZvpPPj6COEbCEQfJxTetOY1c-bxoC44MQAvD_BwE:G:s&s_kwcid=AL!4422!3!433803620858!e!!g!!aws
 
 <!--
 **R0bert196/R0bert196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
