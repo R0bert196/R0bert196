@@ -2,7 +2,7 @@
 
 ---
 
-I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love challanges, always trying to learn and experience new things. As for my personality, I would consider myself an ambivert, being able to socialise and have fun around people, but I could also find myself reading a book on a Sunday morning. I believe that networking is a vital skill which I'm constantly trying to enhance, thus, I’m looking to expand my portfolio and collaborate on something new.
+I'm a trustworthy, empathetic and assertive person. I would rather consider myself a driven and results-oriented professional with a strong work ethic, I have a passion for delivering exceptional results in a fast-paced and challenging environment. With a solid track record of success, I am committed to continuous learning and growth, and strive to bring a positive and proactive attitude to every project and task I undertake. Let's connect and see how we can work together to achieve our goals.I'm a trustworthy, empathetic and assertive person. I would rather consider myself a driven and results-oriented professional with a strong work ethic, I have a passion for delivering exceptional results in a fast-paced and challenging environment. With a solid track record of success, I am committed to continuous learning and growth, and strive to bring a positive and proactive attitude to every project and task I undertake.
 
 ### Skill Set
 ---
@@ -39,7 +39,6 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
  - Clean Code
  - React
  - Docker
- - Azure / AWS
  - UI / UX
  - Design Patterns
  
@@ -47,10 +46,7 @@ I'm 19, currently studying at CodeCool, living in Bucharest, Romania. I love cha
 ---
  - C#
  - .NET
- - Angular
  - TypeScript
- - Material-UI
- - Firebase
  - MongoDB
  
 ### 😄 Outside of coding I enjoy:
