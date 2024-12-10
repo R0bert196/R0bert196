@@ -59,6 +59,8 @@ I am committed to continuous learning, as I believe this is the way to stay ahea
  - Gradle
  - Selenium
  - Splunk
+ - Red Hat Certified Engineer certification
+ - AWS Certified DevOps Engineer certification
 
 ### 😄 Outside of coding I enjoy:
 ---
