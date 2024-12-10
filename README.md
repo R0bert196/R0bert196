@@ -2,7 +2,9 @@
 
 ---
 
-I'm a trustworthy, empathetic and assertive person. I would rather consider myself a driven and results-oriented professional with a strong work ethic, I have a passion for delivering exceptional results in a fast-paced and challenging environment. With a solid track record of success, I am committed to continuous learning and growth, and strive to bring a positive and proactive attitude to every project and task I undertake. Let's connect and see how we can work together to achieve our goals.I'm a trustworthy, empathetic and assertive person. I would rather consider myself a driven and results-oriented professional with a strong work ethic, I have a passion for delivering exceptional results in a fast-paced and challenging environment. With a solid track record of success, I am committed to continuous learning and growth, and strive to bring a positive and proactive attitude to every project and task I undertake.
+I am a software engineer with a strong Java background, specializing in building secure and efficient APIs using Spring modules. I have experience with serverless and event-driven architectures, microservices, and monolithic apps.
+Proficient in Docker and Kubernetes, I’ve hosted apps both on-premises and in the cloud, maintained infrastructure, and managed pipelines. I enjoy programming, DevOps, networking, and security, always seeking to expand my skills and knowledge.
+I am committed to continuous learning, as I believe this is the way to stay ahead it the industry. 
 
 ### Skill Set
 ---
@@ -33,30 +35,37 @@ I'm a trustworthy, empathetic and assertive person. I would rather consider myse
  - [Jira]
  - [Trello]
  - [AWS]
+ - [Ansible]
+ - [Terraform]
+ - [Prometheus]
+ - [Grafana]
+ - [Linux Administration]
+ - [Bash Scripting]
+ - [OWASP Security Practices]
 
 ### 🔭 I’m currently trying to perfect the following skills …
 ---
- - Clean Code
- - React
- - Docker
- - UI / UX
- - Design Patterns
- 
+ - SAFe Methodologies
+ - Infrastructure as Code (Ansible, Terraform)
+ - Grafana & Prometheus for Monitoring
+ - Linux Automation and Administration
+ - Bash Scripting
+ - Cybersecurity (OWASP, TryHackMe, HackTheBox)
+
 ### 🤔 I’m looking forward to learning…
 ---
- - C#
- - .NET
- - TypeScript
- - MongoDB
- 
+ - ELK Stack (Elasticsearch, Logstash, Kibana)
+ - Chef & Puppet
+ - Gradle
+ - Selenium
+ - Splunk
+
 ### 😄 Outside of coding I enjoy:
 ---
- - Going to the GYM 🏋
- - Skiing and Snowboarding ️⛷
- - Playing video games 🎮
- - Going to the movies 🍿
- - Reading 📖
- - Nights Out 🎤
+ - Working Out 🏋️‍♂️
+ - Promoting Mental Awareness and Wellbeing 🧠
+ - Activism 🌍
+ - Reading 📚
 
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
@@ -85,18 +94,10 @@ I'm a trustworthy, empathetic and assertive person. I would rather consider myse
 [Jira]: https://www.atlassian.com/software/jira
 [Trello]: https://trello.com/
 [AWS]: https://aws.amazon.com/free/?trk=d5254134-67ca-4a35-91cc-77868c97eedd&sc_channel=ps&s_kwcid=AL!4422!3!433803620858!e!!g!!aws&ef_id=CjwKCAiAlp2fBhBPEiwA2Q10D9KJ6EzmJfkikFvvofpQLdtMZ1WZvpPPj6COEbCEQfJxTetOY1c-bxoC44MQAvD_BwE:G:s&s_kwcid=AL!4422!3!433803620858!e!!g!!aws
-
-<!--
-**R0bert196/R0bert196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Ansible]: https://www.ansible.com/
+[Terraform]: https://www.terraform.io/
+[Prometheus]: https://prometheus.io/
+[Grafana]: https://grafana.com/
+[Linux Administration]: https://en.wikipedia.org/wiki/Linux
+[Bash Scripting]: https://linuxhint.com/bash_script_tutorial/
+[OWASP Security Practices]: https://owasp.org/
